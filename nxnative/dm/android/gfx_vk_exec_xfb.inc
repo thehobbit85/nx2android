@@ -468,5 +468,3 @@ static void dispatch(const p_dispatch *d) {
     }
 }
 
-
-/* NX2A_SECTION gfx_vk_exec_copies.inc */

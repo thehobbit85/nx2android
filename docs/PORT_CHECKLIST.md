@@ -74,6 +74,7 @@ Left out because they have an official Android release: Unpacking (ported here a
 - [x] Octopath Traveler 0 · `01005270232F2000`
 - [ ] Octopath Traveler II · `0100A3501946E000` · upstream profile · 60 fps with 1.1.1
 - [x] OCTOPATH TRAVELER · `010057D006492000` · profile here
+- [x] Ori and the Will of the Wisps · `01008DD013200000` · experimental; startup lock fix unavailable
 - [x] Paper Mario: The Origami King · `0100A3900C3E2000`
 - [x] Paper Mario: The Thousand-Year Door · `0100ECD018EBE000`
 - [ ] Patrick's Parabox · `0100E44016C22000` · profile here
